@@ -1,0 +1,52 @@
+1. Quantas casas estão disponiveis para compra?
+R = Quantidade de casas disponiveis é  21613 .
+
+2. Quantos atributos as casas possuem ?
+R = As casas possuem  21 atributos. .
+
+3. Quais são os atributos das casas?
+R = Os atributos das casas são  Index(['id', 'data', 'preco', 'quartos', 'banheiros', 'sqft_living',
+       'sqft_lot', 'floors', 'waterfront', 'view', 'condition', 'grade',
+       'sqft_above', 'sqft_basement', 'yr_built', 'yr_renovated', 'zipcode',
+       'lat', 'long', 'sqft_living15', 'sqft_lot15'],
+      dtype='object') .
+
+Empty DataFrame
+Columns: [id, data, preco, quartos, banheiros, sqft_living, sqft_lot, floors, waterfront, view, condition, grade, sqft_above, sqft_basement, yr_built, yr_renovated, zipcode, lat, long, sqft_living15, sqft_lot15]
+Index: []
+4. Qual a casa mais cara (casa com o maior  de venda)?
+A casa mais cara (casa com o maior  de venda) é                id
+7252  6762700020 com o valor de  7700000.0 .
+
+5. Qual a casa com maior numero de quartos?
+A com maior numero de quartos é  [2402100895] com  33 quartos.
+
+6. Qual a soma total de quartos do conjunto de dados?
+R = A soma total de quartos do conjunto de dados é 72854 .
+
+7.Quantas casas possuem 2 banheiros?
+R= Total de casas que  possuem 2 banheiros é  1930 .
+
+8. Qual o preço medio de todas as casas do conjunto de dados?
+R= O preço medio de todas as casas do conjunto de dados é  540088.1417665294 .
+
+9. Qual o preço médio de  casas com 2 banheiros?
+R= O preço médio de  casas com 2 banheiros é 457889.7186528497 .
+
+10. Qual o preço minimo entre as casas com 3 quartos?
+R= O preço minimo das  casas com 3 quartos é 82000.0 .
+
+11. Quantas casas possuem mais de 300 metros quadrados?
+R= A quantidade de casas que possuem mais de 300 metros quadrados é  21613 casas.
+
+12. Quantas casas tem mas de 2 andares ?
+R = A quantidade de  casas  mais de  2 andares  é  782 casas.
+
+13. Quantas casas tem vista para o mar?
+R = A quantidade de  casas  que tem vista para o mar  é  163 casas.
+
+14. Das Casas com vista para o mar, quantas tem 3 quartos?
+R= Das Casas com vista para o mar 64 tem 3 quartos
+
+15. Das Casas com mais de 300 quadrados de sala de estar quantas  tem mais 2 banheiros?
+R = Das Casas com mais de 300 quadrados de sala de estar 11242 tem mais de 2 banheiros
